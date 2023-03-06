@@ -1,0 +1,17 @@
+{
+  "name": "auto-dev-chore-001-changelogs",
+  "version": "0.0.1",
+  "description": "autogenerating changelogs - the first presentation in 'Automating Development Chores' series",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "impress.js-presentation",
+    "development",
+    "automation",
+    "changelog"
+  ],
+  "author": "VahidM",
+  "license": "MIT"
+}
